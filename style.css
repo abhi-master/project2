@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    background:black;
+}
+
+.img{
+    height: 10%;
+    width: 60%;
+}
+
+.h4{
+    display: flex;
+    color:red;
+    
+}
+
+.pha{
+    display: flex;
+    color: aliceblue;
+   
+}
+
+.footer{
+    background-color:lightsteelblue;
+    justify-content: space-between;
+    align-items: center;
+    
+}
